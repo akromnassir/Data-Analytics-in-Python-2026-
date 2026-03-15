@@ -19,7 +19,7 @@
 <a href="https://githubtocolab.com/milaan9/93_Python_Data_Analytics_Projects"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p>    
  
-# 93_Python_Data_Analytics_Projects
+# Python_Data_Analytics_Projects
 
 This repository contains all the data analytics projects that I've worked on in python.
 
